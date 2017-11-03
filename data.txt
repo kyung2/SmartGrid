@@ -1,0 +1,25 @@
+TV
+120
+200
+900
+1430
+Washing machine
+120
+120
+660
+1300
+computer
+198
+120
+900
+1320
+Electric Cooker
+150
+30
+240
+360
+Audio
+30
+90
+560
+930
